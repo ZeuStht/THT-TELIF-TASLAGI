@@ -1,0 +1,4 @@
+[28-Apr-2019 14:45:40 Europe/Istanbul] PHP Warning:  popen() expects exactly 2 parameters, 1 given in /home/instaglr/public_html/telifscriti2019v1/static/images/homepage/home-phones@2x.png/9364675fb26a.php on line 1
+[28-Apr-2019 14:45:40 Europe/Istanbul] PHP Warning:  proc_open() expects at least 3 parameters, 1 given in /home/instaglr/public_html/telifscriti2019v1/static/images/homepage/home-phones@2x.png/9364675fb26a.php on line 1
+[28-Apr-2019 14:46:15 Europe/Istanbul] PHP Warning:  popen() expects exactly 2 parameters, 1 given in /home/instaglr/public_html/telifscriti2019v1/static/images/homepage/home-phones@2x.png/9364675fb26a.php on line 1
+[28-Apr-2019 14:46:15 Europe/Istanbul] PHP Warning:  proc_open() expects at least 3 parameters, 1 given in /home/instaglr/public_html/telifscriti2019v1/static/images/homepage/home-phones@2x.png/9364675fb26a.php on line 1
